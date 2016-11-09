@@ -1,0 +1,24 @@
+{
+    "author": "ojensen5115@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "austin-metro-rocky",
+    "pebble": {
+        "displayName": "Austin Metro (rocky)",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "rocky",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt"
+        ],
+        "uuid": "35b7c6a1-e8a2-4aef-8da1-3d16de69607b",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
